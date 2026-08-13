@@ -1,15 +1,16 @@
 <h1 align="center">olá, eu sou a danitza!</h1>
 
 <p align="center">
-  Cursando Técnico em Desenvolvimento de Sistemas (SENAI) <br>
-  Desenvolvendo projetos em Python, Portugol e PHP
+  Cursando Técnico em Desenvolvimento de Sistemas (SENAI)<br>
+  Desenvolvendo projetos em Python, C++ e PHP
 </p>
 
 ---
 
 ### Sobre mim
 
-- Focada em desenvolvimento FullStack <br>
+- Focada em desenvolvimento Fullstack;<br>
+- Preferência por Back-end.
 
 ---
 
