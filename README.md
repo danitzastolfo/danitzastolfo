@@ -1,4 +1,5 @@
-<h1 align="center">olá, eu sou a danitza!</h1>
+<h1 align="center">DANITZA ISABELLE DA COSTA ASTOLFO</h1>
+<h2 align="center">Perfil de Iniciação Profissional</h2>
 
 <p align="center">
   Cursando Técnico em Desenvolvimento de Sistemas (SENAI)<br>
@@ -10,14 +11,15 @@
 ### Sobre mim
 
 - Focada em desenvolvimento Fullstack;<br>
-- Preferência por Back-end.
+- Preferência por Back-end;<br>
+- Fluência em Língua Inglesa (CCAA).
 
 ---
 
-### Tecnologias que uso
+### Tecnologias mais frequentes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,windows,linux,github,html">
+  <img src="https://skillicons.dev/icons?i=python,php,vscode,html">
 </p>
 
 ---
